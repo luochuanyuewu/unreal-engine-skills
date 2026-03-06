@@ -1,5 +1,7 @@
 # Unreal Engine Skills for AI Agents
 
+English | [简体中文](README_CN.md)
+
 A collection of 27 AI agent skills for Unreal Engine C++ development. Built for game developers who want AI coding agents to help write correct, production-quality UE5 C++ code. Works with Claude Code, Cursor, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
 Every skill has been audited against Unreal Engine source code to ensure API accuracy — correct function signatures, valid class hierarchies, and real method names. No hallucinated APIs.
